@@ -1,0 +1,7 @@
+#header {width: 100%; height: 200px; background-image: url("../img/pizzabg3.jpg"); background-color: aqua; display: flex;}
+#h1 {color: azure; font-size: 55px; font-family:'Impact';}
+.catégoriesPizza { height: 45px; justify-content: center; color: ivory;}
+#background { background-image: url("../img/bg1.jfif");}
+.card{background-color: rgba(0, 0, 0, 0.3);position: unset;}
+#navbar-example2 {  width: 80%; justify-self: center; justify-content: space-around;}
+.boutonNav {border-color: mediumblue; }
